@@ -1,0 +1,11 @@
+{
+  "response": {
+      "datetime": 1664316000,
+      "filename": "lineage_j6lte-ota-eng.batuhantrkgl.zip",
+      "id": "000000",
+      "romtype": "unofficial",
+      "size": 696400000,
+      "url": "https://github.com/Exynos7870-Revived/OTA-Updates/releases/download/OTA-LineageOS-S/lineage_j6lte-ota-eng.batuhantrkgl.zip",
+      "version": "19.1"
+    }    
+}
